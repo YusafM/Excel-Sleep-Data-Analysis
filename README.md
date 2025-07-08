@@ -45,4 +45,38 @@ A pivot-style summary table showing the distribution of sleep duration across:
 ## 📊 Visual Insights
 
 ### Distribution of Sleep Duration by Gender
-![Sleep Duration by Gender]
+![Sleep Duration by Gender](sleeperage Stress Levels in Different Situations
+!Average Stress Levels
+
+### Bedtime vs Hours of Sleep
+!Bedtime vs Sleep
+
+### Frequency of Sleep Disturbances
+!Sleep Disturbances
+
+### Screenshot: Sleep Duration and Time to Fall Asleep by Age and Gender
+!Sleep Data Screenshot
+
+---
+
+## 🔍 Use Cases
+
+- **Sleep Quality Analysis**: Identify patterns in sleep duration and disturbances.
+- **Mental Health Correlation**: Explore links between sleep habits and mental health conditions.
+- **Stress Profiling**: Understand how students react to different stress-inducing situations.
+- **Data Visualization**: Ideal for creating charts, dashboards, and reports in Excel or Power BI.
+- **Academic Research**: Useful for psychology, health sciences, or behavioral studies.
+
+---
+
+## 📌 Notes
+
+- Data is anonymized and self-reported.
+- Some fields include categorical frequency responses (e.g., "Once or twice a week").
+- Slicers are included for interactive filtering (Excel 2010+ required).
+
+---
+
+## 📬 Contact
+
+For questions, analysis requests, or collaboration, feel free to open an issue or reach out via GitHub.

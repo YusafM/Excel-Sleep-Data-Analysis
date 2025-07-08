@@ -45,22 +45,8 @@ A pivot-style summary table showing the distribution of sleep duration across:
 
 ## 📊 Visual Insights
 
-### Distribution of Sleep Duration by Gender
-![SleepDuration by Gender
-
-### Average Stress Levels in Different Situations
-!Average Stress Levels
-
-### Bedtime vs Hours of Sleep
-!Bedtime vs Sleep
-
-### Frequency of Sleep Disturbances
-!Sleep Disturbances
-
 ### Screenshot: Sleep Duration and Time to Fall Asleep by Age and Gender
-!Sleep Data Screenshot
-
----
+![Sleep Data Screenshot](https://github.com/username/repo/blob/main/Image_1.png?raw=true)
 
 ## 🔍 Use Cases
 

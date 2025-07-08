@@ -46,7 +46,7 @@ A pivot-style summary table showing the distribution of sleep duration across:
 ## 📊 Visual Insights
 
 ### Screenshot: Sleep Duration and Time to Fall Asleep by Age and Gender
-![Sleep Data Screenshot](https://github.com/username/repo/blob/main/Image_1.png?raw=true)
+![Sleep Data Screenshot](https://github.com/YusafM/Excel-Sleep-Data-Analysis/blob/main/Screenshot%202025-07-08%20103642.png)
 
 ## 🔍 Use Cases
 

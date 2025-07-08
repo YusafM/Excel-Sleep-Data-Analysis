@@ -13,7 +13,6 @@ This repository contains a custom Excel workbook titled **"Custom workset (Sleep
 ---
 
 ## 📄 Sheet Descriptions
-
 ### 1. `Form Responses 1`
 This sheet contains raw survey responses from students, covering:
 
@@ -29,6 +28,7 @@ This sheet contains raw survey responses from students, covering:
   - Exams
   - Social interactions
   - Asking for help or confronting others
+
 ### 2. `Hours sleep per night (Tabled)`
 A pivot-style summary table showing the distribution of sleep duration across:
 
@@ -42,32 +42,7 @@ A pivot-style summary table showing the distribution of sleep duration across:
 
 ---
 
-## 🔍 Use Cases
+## 📊 Visual Insights
 
-- **Sleep Quality Analysis**: Identify patterns in sleep duration and disturbances.
-- **Mental Health Correlation**: Explore links between sleep habits and mental health conditions.
-- **Stress Profiling**: Understand how students react to different stress-inducing situations.
-- **Data Visualization**: Ideal for creating charts, dashboards, and reports in Excel or Power BI.
-- **Academic Research**: Useful for psychology, health sciences, or behavioral studies.
-
----
-
-## 📊 Sample Insights You Can Explore
-
-- Do students with diagnosed mental health conditions sleep less?
-- Are certain majors more prone to sleep disturbances?
-- How does bedtime correlate with stress levels?
-- Gender-based differences in sleep quality and stress response
----
-
-## 📌 Notes
-
-- Data is anonymized and self-reported.
-- Some fields include categorical frequency responses (e.g., "Once or twice a week").
-- Slicers are included for interactive filtering (Excel 2010+ required).
-
----
-
-## 📬 Contact
-For questions, analysis requests, or collaboration, feel free to open an issue or reach out via GitHub.
-
+### Distribution of Sleep Duration by Gender
+![Sleep Duration by Gender]

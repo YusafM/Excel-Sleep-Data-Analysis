@@ -13,6 +13,7 @@ This repository contains a custom Excel workbook titled **"Custom workset (Sleep
 ---
 
 ## 📄 Sheet Descriptions
+
 ### 1. `Form Responses 1`
 This sheet contains raw survey responses from students, covering:
 
@@ -45,7 +46,9 @@ A pivot-style summary table showing the distribution of sleep duration across:
 ## 📊 Visual Insights
 
 ### Distribution of Sleep Duration by Gender
-![Sleep Duration by Gender](sleeperage Stress Levels in Different Situations
+![SleepDuration by Gender
+
+### Average Stress Levels in Different Situations
 !Average Stress Levels
 
 ### Bedtime vs Hours of Sleep
@@ -80,3 +83,9 @@ A pivot-style summary table showing the distribution of sleep duration across:
 ## 📬 Contact
 
 For questions, analysis requests, or collaboration, feel free to open an issue or reach out via GitHub.
+
+---
+
+## 📚 Data Source
+
+This dataset was originally sourced from Kaggle and is used here for educational and analytical purposes. All credit goes to the original dataset creator.
